@@ -10,3 +10,5 @@ services:
       - ./:/usr/src/app
       - site:/usr/src/app/_site
     tty: true
+volumes:
+  site:
