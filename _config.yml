@@ -1,0 +1,11 @@
+name: Jack's Journal
+description: Random musings of a mad man
+url: "http://jdipper.github.io"
+markdown: kramdown
+repository: jdipper/jdipper.github.io
+plugins:
+  - jekyll-github-metadata
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jemoji
